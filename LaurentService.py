@@ -3,6 +3,7 @@ import datetime
 import time
 import xml.etree.cElementTree as ET
 
+#test information
 TIMEOUT_REQ = 10
 TIMEZONE_DELTA = 0 #4
 SECONDS_TO_WARN = 1
