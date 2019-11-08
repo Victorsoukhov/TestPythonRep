@@ -77,4 +77,4 @@ while True:
             conn.commit()
             time.sleep(60)
     else:
-        time.sleep(0.3)
+        time.sleep(0.4)
